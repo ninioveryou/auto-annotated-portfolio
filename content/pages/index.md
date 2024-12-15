@@ -57,6 +57,7 @@ sections:
       - content/pages/projects/randb.md
       - content/pages/projects/laufey.md
       - content/pages/projects/indie.md
+      - content/pages/projects/pop.md
     styles:
       self:
         height: auto
