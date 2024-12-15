@@ -58,6 +58,7 @@ sections:
       - content/pages/projects/laufey.md
       - content/pages/projects/indie.md
       - content/pages/projects/pop.md
+      - content/pages/projects/classical.md
     styles:
       self:
         height: auto
