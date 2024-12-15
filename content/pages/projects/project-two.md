@@ -4,7 +4,7 @@ title: RAP
 colors: colors-a
 date: '2021-12-20'
 client: ''
-description: ''
+description: tbd
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
