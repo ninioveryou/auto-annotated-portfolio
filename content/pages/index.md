@@ -79,7 +79,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: about the creators
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
