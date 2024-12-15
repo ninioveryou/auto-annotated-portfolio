@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: music corner
-    subtitle: music reccomendations !!!
+    subtitle: music reccomendations
     styles:
       self:
         height: auto
