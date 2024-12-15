@@ -10,11 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "MUSIC ",
                 "url": "/projects"
             },
