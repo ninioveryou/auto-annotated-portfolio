@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Nita
-colors: colors-b
+colors: colors-c
 date: '2021-12-20'
 client: ''
 description: idk i rlly like music and art
