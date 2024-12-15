@@ -77,7 +77,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: SECTIONS
+    subtitle: CORNERS
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
