@@ -77,7 +77,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: about the creator
+    subtitle: SECTIONS
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
